@@ -1,2 +1,2 @@
-# portfolio_ds
+# Portfolio_ds
 Collection of projects for data science portfolio 
